@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowkater&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![flowkater's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flowkater&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## Contacts 📫
