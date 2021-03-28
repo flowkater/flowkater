@@ -8,8 +8,6 @@
 
 [![flowkater's github stats](https://github-readme-stats.vercel.app/api?username=flowkater&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![todait's github stats](https://github-readme-stats.vercel.app/api?username=todait&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Contacts 📫
 
